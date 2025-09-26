@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "./pytorch-grad-cam",
+    "./src"
+  ]
+}
