@@ -1,0 +1,12 @@
+# Python virtual environment
+cancer-env/
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# MacOS system files
+.DS_Store
