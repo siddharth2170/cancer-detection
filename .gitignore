@@ -1,7 +1,10 @@
 # Python virtual environment
 cancer-env/
 
-# Byte-compiled / cache
+# Local editable package
+pytorch-grad-cam/
+
+# Python cache
 __pycache__/
 *.pyc
 
@@ -10,5 +13,3 @@ __pycache__/
 
 # MacOS system files
 .DS_Store
-
-pytorch-grad-cam/
